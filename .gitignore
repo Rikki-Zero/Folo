@@ -24,3 +24,5 @@ tsconfig.tsbuildinfo
 
 apps/mobile/ios
 apps/mobile/android
+
+.direnv
